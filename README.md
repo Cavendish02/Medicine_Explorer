@@ -1,0 +1,2 @@
+Medicine Explorer
+Medicine Explorer is a Python-based desktop application that helps users scan, decode, and retrieve detailed information about medicines using barcodes. It leverages a user-friendly graphical interface to provide real-time insights into medication details, such as composition, usage, dosage, side effects, and interactions. This project is ideal for enhancing inventory management, medical record systems, or personal healthcare applications.
